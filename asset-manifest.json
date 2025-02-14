@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/valentine-wish/static/css/main.f855e6bc.css",
-    "main.js": "/valentine-wish/static/js/main.0844851e.js",
+    "main.js": "/valentine-wish/static/js/main.b6cda282.js",
     "static/js/488.9afb4d06.chunk.js": "/valentine-wish/static/js/488.9afb4d06.chunk.js",
     "index.html": "/valentine-wish/index.html",
     "main.f855e6bc.css.map": "/valentine-wish/static/css/main.f855e6bc.css.map",
-    "main.0844851e.js.map": "/valentine-wish/static/js/main.0844851e.js.map",
+    "main.b6cda282.js.map": "/valentine-wish/static/js/main.b6cda282.js.map",
     "488.9afb4d06.chunk.js.map": "/valentine-wish/static/js/488.9afb4d06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.0844851e.js"
+    "static/js/main.b6cda282.js"
   ]
 }
